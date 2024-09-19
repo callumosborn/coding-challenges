@@ -4,6 +4,9 @@ package main
 
 // Given an integer array nums sorted in non-decreasing order,
 // return an array of the squares of each number sorted in non-decreasing order.
+//
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 func sortedSquares(nums []int) []int {
 	aux := make([]int, len(nums))
 

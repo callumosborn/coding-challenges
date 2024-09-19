@@ -13,3 +13,5 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](./leetcode/344-reverse-string/main.go)
 
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](./leetcode/345-reverse-vowels-of-a-string/main.go)
+
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [Solution](./leetcode/392-is-subsequence/main.go)

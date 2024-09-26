@@ -16,4 +16,8 @@
 
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [Solution](./leetcode/392-is-subsequence/main.go)
 
+- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) - [Solution](./leetcode/643-maximum-average-subarray-i/main.go)
+
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Solution](./leetcode/977-squares-of-a-sorted-array/main.go)
+
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - [Solution](./leetcode/1004-max-consecutive-ones-iii/main.go)

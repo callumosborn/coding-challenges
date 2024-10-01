@@ -25,3 +25,5 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Solution](./leetcode/977-squares-of-a-sorted-array/main.go)
 
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - [Solution](./leetcode/1004-max-consecutive-ones-iii/main.go)
+
+- [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) - [Solution](./leetcode/2351-first-letter-to-appear-twice/main.go)

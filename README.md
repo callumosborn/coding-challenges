@@ -26,4 +26,6 @@
 
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - [Solution](./leetcode/1004-max-consecutive-ones-iii/main.go)
 
+- [Check if the Sentence is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) - [Solution](./leetcode/1832-check-if-the-sentence-is-pangram/main.go)
+
 - [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) - [Solution](./leetcode/2351-first-letter-to-appear-twice/main.go)

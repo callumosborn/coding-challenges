@@ -1,9 +1,5 @@
 # Coding Challenges
 
-## Learning
-
-- [Two Pointers](./learning/two-pointers/main.go)
-
 ## LeetCode
 
 - [Two Sums](https://leetcode.com/problems/two-sum) - [Solution](./leetcode/1-two-sums/main.go)
@@ -28,8 +24,14 @@
 
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - [Solution](./leetcode/1004-max-consecutive-ones-iii/main.go)
 
+- [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) - [Solution](./leetcode/1413-minimum-value-to-get-positive-step-by-step-sum/main.go)
+
 - [Count Elements](https://leetcode.com/problems/counting-elements/) - [Solution](./leetcode/1426-counting-elements/main.go)
 
+- [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array) - [Solution](./leetcode/1480-running-sum-of-1d-array/main.go)
+
 - [Check if the Sentence is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) - [Solution](./leetcode/1832-check-if-the-sentence-is-pangram/main.go)
+
+- [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) - [Solution](./leetcode/2090-k-radius-subarray-averages/main.go)
 
 - [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) - [Solution](./leetcode/2351-first-letter-to-appear-twice/main.go)

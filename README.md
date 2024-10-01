@@ -10,6 +10,8 @@
 
 - [Valid Palidrone](https://leetcode.com/problems/valid-palindrome) - [Solution](./leetcode/125-valid-palidrone/main.go)
 
+- [Missing Number](https://leetcode.com/problems/missing-number/) - [Solution](./leetcode/268-missing-number/main.go)
+
 - [Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](./leetcode/344-reverse-string/main.go)
 
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](./leetcode/345-reverse-vowels-of-a-string/main.go)
@@ -25,6 +27,8 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Solution](./leetcode/977-squares-of-a-sorted-array/main.go)
 
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - [Solution](./leetcode/1004-max-consecutive-ones-iii/main.go)
+
+- [Count Elements](https://leetcode.com/problems/counting-elements/) - [Solution](./leetcode/1426-counting-elements/main.go)
 
 - [Check if the Sentence is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) - [Solution](./leetcode/1832-check-if-the-sentence-is-pangram/main.go)
 

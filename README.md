@@ -8,6 +8,8 @@
 
 - [Missing Number](https://leetcode.com/problems/missing-number/) - [Solution](./leetcode/268-missing-number/main.go)
 
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [Solution](./leetcode/283-move-zeroes/main.go)
+
 - [Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](./leetcode/344-reverse-string/main.go)
 
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](./leetcode/345-reverse-vowels-of-a-string/main.go)

@@ -38,6 +38,8 @@
 
 - [Check if the Sentence is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) - [Solution](./leetcode/1832-check-if-the-sentence-is-pangram/main.go)
 
+- [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) - [Solution](./leetcode/2000-reverse-prefix-of-word/main.go)
+
 - [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) - [Solution](./leetcode/2090-k-radius-subarray-averages/main.go)
 
 - [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) - [Solution](./leetcode/2351-first-letter-to-appear-twice/main.go)

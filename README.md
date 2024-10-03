@@ -18,6 +18,8 @@
 
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) - [Solution](./leetcode/485-max-consecutive-ones/main.go)
 
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array) - [Solution](./leetcode/525-contiguous-array/main.go)
+
 - [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) - [Solution](./leetcode/541-reverse-string-ii/main.go)
 
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) - [Solution](./leetcode/557-reverse-words-in-strings-iii/main.go)
@@ -29,6 +31,10 @@
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - [Solution](./leetcode/977-squares-of-a-sorted-array/main.go)
 
 - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) - [Solution](./leetcode/1004-max-consecutive-ones-iii/main.go)
+
+- [Largest Unique Number](https://leetcode.com/problems/largest-unique-number) - [Solution](./leetcode/1133-largest-unique-number/main.go)
+
+- [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) - [Solution](./leetcode/1189-maximum-number-of-balloons/main.go)
 
 - [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) - [Solution](./leetcode/1413-minimum-value-to-get-positive-step-by-step-sum/main.go)
 

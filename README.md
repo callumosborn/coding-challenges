@@ -20,6 +20,8 @@
 
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](./leetcode/345-reverse-vowels-of-a-string/main.go)
 
+- [Ransom Note](https://leetcode.com/problems/ransom-note) - [Solution](./leetcode/383-ransom-note/main.go)
+
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/) - [Solution](./leetcode/392-is-subsequence/main.go)
 
 - [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) - [Solution](./leetcode/485-max-consecutive-ones/main.go)
@@ -31,6 +33,8 @@
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) - [Solution](./leetcode/557-reverse-words-in-strings-iii/main.go)
 
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) - [Solution](./leetcode/643-maximum-average-subarray-i/main.go)
+
+- [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) - [Solution](./leetcode/771-jewels-and-stones/main.go)
 
 - [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) - [Solution](./leetcode/917-reverse-only-letters/main.go)
 

@@ -6,6 +6,8 @@
 
 - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [Solution](./leetcode/3-longest-substring-without-repeating-characters/main.go)
 
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) - [Solution](./leetcode/83-remove-duplicates-from-sorted-list/main.go)
+
 - [Valid Palidrone](https://leetcode.com/problems/valid-palindrome) - [Solution](./leetcode/125-valid-palidrone/main.go)
 
 - [Longest Substring With at Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [Solution](./leetcode/159-longest-substring-with-at-most-two-distinct-characters/main.go)
@@ -35,6 +37,8 @@
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) - [Solution](./leetcode/643-maximum-average-subarray-i/main.go)
 
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) - [Solution](./leetcode/771-jewels-and-stones/main.go)
+
+- [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) - [Solution](./leetcode/876-middle-of-the-linked-list/main.go)
 
 - [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) - [Solution](./leetcode/917-reverse-only-letters/main.go)
 

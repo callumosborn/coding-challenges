@@ -4,11 +4,17 @@
 
 - [Two Sums](https://leetcode.com/problems/two-sum) - [Solution](./leetcode/1-two-sums/main.go)
 
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) - [Solution](./leetcode/3-longest-substring-without-repeating-characters/main.go)
+
 - [Valid Palidrone](https://leetcode.com/problems/valid-palindrome) - [Solution](./leetcode/125-valid-palidrone/main.go)
+
+- [Longest Substring With at Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) - [Solution](./leetcode/159-longest-substring-with-at-most-two-distinct-characters/main.go)
 
 - [Missing Number](https://leetcode.com/problems/missing-number/) - [Solution](./leetcode/268-missing-number/main.go)
 
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [Solution](./leetcode/283-move-zeroes/main.go)
+
+- [Longest Substring With at Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) - [Solution](./leetcode/340-longest-substring-with-at-most-k-distinct-characters/main.go)
 
 - [Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](./leetcode/344-reverse-string/main.go)
 
